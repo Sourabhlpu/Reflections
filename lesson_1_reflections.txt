@@ -1,3 +1,29 @@
 Comparing two different versions saved me the pain of comparing each lines of the two files.
 I could easily see the difference between two files using the "fc" command.
 Which finally heplped me figure out the bug.
+
+
+
+Having the complete history of a file helps me go back to pervious versions of the file if my current version gives me some errors.
+It is also easier to work with  team if we could have different versions of the file.
+I can always go back to previous versions if i want to follow my previous solution path.
+
+
+Manual commiting give us the fine grain of version control while automatically saving might cause problems of having unreasonable saves.
+
+Using manual commit might be extra work to do and can be bit tideous as compared to automatic commit.
+
+Manual commits can save unreasonable versions if used properly.
+
+How can you use the commands git log and git diff to view the history of files?
+
+we can use "git log" command to view all the commits of our file.
+then we can compare the two commits by simply copying the id's from the logs
+and then using them with the "git diff" command.
+
+How might using version control make you more confident to make changes that could break something?
+
+I can always revert back to my pervious commits as I have the previous versions saved.
+I won't be afraid to break my code if i make some significant changes in the logic of the code.
+I can always go back to the previous working code and even compare the different commits for sources of errors.
+
