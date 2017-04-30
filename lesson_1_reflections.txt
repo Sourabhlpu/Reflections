@@ -1,0 +1,3 @@
+Comparing two different versions saved me the pain of comparing each lines of the two files.
+I could easily see the difference between two files using the "fc" command.
+Which finally heplped me figure out the bug.
