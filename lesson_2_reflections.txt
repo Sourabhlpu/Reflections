@@ -20,3 +20,11 @@ the docs. As all of these can be done in the master branch.
 How do the diagrams help you visualize the branch structure?
 
 With the help of diagrams I can visualize the structure of my repository and I can identifiy the reachability of the nodes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging helps us to add all the commits of two branches to each other. This way we are adding the features or the changes made in a branch to, for e.g.  the 
+master branch. 
+
+In the diagram we represent it the way because the after merging the new commit becomes the head and it has two parents from the heads of both the branches
+
