@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+when i fist initialize a repository a normal directory is converted into a repository as it contains some meta data about the history of the files
+in the .git file
+
+now I can keep track of the history of the files.
