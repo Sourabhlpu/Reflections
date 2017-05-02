@@ -3,3 +3,10 @@ When would you like to create a remote repository rather than keeping all your w
 the remote repository helps us to collaborate with others and share our repository with other peoples.
 It is really helpful when more than one person is working on a project. Many open source projects are 
 there on github where anyone can see and contribute to that project.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+When more than one person is worknig on github it won't be wise to pull all the commits since there might be commits that won't be correct and 
+would need some approval from the creators of the project to approve before pulling locally.
+
