@@ -1,1 +1,5 @@
 When would you like to create a remote repository rather than keeping all your work local?
+
+the remote repository helps us to collaborate with others and share our repository with other peoples.
+It is really helpful when more than one person is working on a project. Many open source projects are 
+there on github where anyone can see and contribute to that project.
